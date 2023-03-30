@@ -1,2 +1,2 @@
 # practica_github
-Maximiliano
+Tami Romano 
